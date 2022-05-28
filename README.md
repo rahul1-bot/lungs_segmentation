@@ -1,1 +1,1 @@
-# lungs_segmentation
+# Lungs Segmentation
